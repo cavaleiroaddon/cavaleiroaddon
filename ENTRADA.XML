@@ -10,19 +10,28 @@
 </channel>
 
 <channel>
-<name>[B][COLOR red]Séries Lançamentos 2025[/COLOR] [COLOR blue]Dublados e Legendados[/COLOR][/B]</name>
+<name>[B][COLOR blue]Filmes Lançamentos 2025[/COLOR] [COLOR red]Dublados e Legendados[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart>https://archive.org/download/fanart_202501/fanart.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse Filmes [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]Filmes Torrents 2024[/COLOR] [COLOR blue]Dublados e Legendados[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info>[COLOR red] [COLOR blue] Bem vindo ao Addon Cavaleiro Soliário  [/COLOR]</info>
-<externallink></externallink>
+<info>[COLOR red] [COLOR blue] Bem vindo ao Addon Cavaleiro Soliário [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/cavaleiroaddon/cavaleiroaddon/refs/heads/main/FILMES2024TORRENTS.XML</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR blue]TvOnline[/COLOR] [COLOR red]Diversos Canais[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR red] [COLOR blue] Bem vindo ao Addon Cavaleiro Soliário  [/COLOR]</info>
+<fanart>https://archive.org/download/fanart_202501/fanart.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao Addon Cavaleiro Soliário [/COLOR]</info>
 <externallink></externallink>
 </channel>
+
 
 </channels>
