@@ -10,7 +10,7 @@
 </channel>
 
 <channel>
-<name>[COLOR blue]Filmes Lançamentos 2025[/COLOR] [COLOR red]Dublados e Legendados[/COLOR]</name>
+<name>[COLOR blue]Filmes 2025[/COLOR] [COLOR red]Dublados e Legendados[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20250112/icon.png</thumbnail>
 <fanart>https://archive.org/download/whats-app-image-2025-01-12-at-12.15.38/WhatsApp%20Image%202025-01-12%20at%2012.15.38.jpeg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse Filmes [/COLOR]</info>
@@ -23,6 +23,14 @@
 <fanart>https://archive.org/download/whats-app-image-2025-01-12-at-12.15.38/WhatsApp%20Image%202025-01-12%20at%2012.15.38.jpeg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao Addon Cavaleiro Soliário [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/cavaleiroaddon/cavaleiroaddon/refs/heads/main/FILMES2024.XML</externallink>
+</channel>
+
+<channel>
+<name>[COLOR blue]Séries 2024[/COLOR] [COLOR red]Dublados e Legendados[/COLOR]</name>
+<thumbnail>https://archive.org/download/icon_20250112/icon.png</thumbnail>
+<fanart>https://archive.org/download/whats-app-image-2025-01-12-at-12.15.38/WhatsApp%20Image%202025-01-12%20at%2012.15.38.jpeg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao Addon Cavaleiro Soliário [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/cavaleiroaddon/cavaleiroaddon/refs/heads/main/SERIES2024.XML</externallink>
 </channel>
 
 <channel>
